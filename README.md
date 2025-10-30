@@ -1,16 +1,73 @@
-# React + Vite
+# 💱 Currency Converter (React + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live%20Preview-Online-success?style=for-the-badge)](https://Patel-Vipul.github.io/Currency-Converter-React/)
+[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-blue?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Built%20With-Vite-8A2BE2?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo  
+🎯 **[View Project Here →](https://Patel-Vipul.github.io/Currency-Converter-React/)**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧾 Description  
+**Currency Converter** is a modern and responsive web app built using **React** and **Tailwind CSS**.  
+It provides real-time currency conversion powered by the **Frankfurter API**, featuring a clean UI, smooth gradient background, and interactive functionality.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features  
+✅ Real-time currency conversion using **Frankfurter API**  
+✅ Swap between currencies instantly  
+✅ Responsive UI (mobile, tablet, and desktop)  
+✅ Gradient background with elegant visual appeal  
+✅ Debounced input for smooth user experience  
+✅ Built with Vite for fast performance  
+
+---
+
+## 🧠 Tech Stack  
+- ⚛️ **React.js** — UI Library  
+- 🎨 **Tailwind CSS** — Styling  
+- 🌐 **Frankfurter API** — Real-time currency data  
+- ⚡ **Vite** — Fast build tool  
+
+---
+
+## 🖼️ Preview  
+> [![App Screenshot](https://via.placeholder.com/1000x500.png?text=Currency+Converter+Preview)](https://github.com/Patel-Vipul/Currency-Converter-React/blob/main/src/assets/preview.png?raw=true)
+
+---
+
+## 🛠️ Setup & Installation  
+
+1️⃣ **Clone this repository**
+```bash
+git clone https://github.com/Patel-Vipul/Currency-Converter-React.git
+cd Currency-Converter-React
+npm install
+npm run dev
+http://localhost:5173/
+```
+
+---
+
+👨‍💻 Author
+
+Patel Vipul
+
+💬 Passionate about frontend development and UI design.
+📧 Feel free to connect and share feedback!
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License — you’re free to use and modify it.
+
+---
+
+
